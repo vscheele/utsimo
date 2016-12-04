@@ -1,0 +1,5 @@
+//cartypes.txt zur Definition der Autotypen
+// Format: index PARAM1 VALUE1 PARAM2 VALUE2...
+0 maxSpeed 20.0 maxAcceleration 3 length 5 width 2.4
+1 maxSpeed 40.0 maxAcceleration 6 length 4 width 2.0
+2 maxSpeed 60.0 maxAcceleration 8 length 3 width 1.5

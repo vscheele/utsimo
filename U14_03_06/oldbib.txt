@@ -1,0 +1,213 @@
+\bibitem{fishwick95}
+Paul A. Fishwick. {\it Simulation model design and execution : building digital worlds. } Englewood Cliffs, N.J: Prentice Hall, 1995.   
+\bibitem{kuhl00}
+Frederick Kuhl; Richard Weatherly; Judith Dahmann. {\it Creating computer simulation systems : an introduction to the high level architecture. } Upper Saddle River, NJ: Prentice Hall PTR, 2000.
+\bibitem{Wang04}
+Hongling Wang, Joseph K. Kearney, James Cremer, Peter Willemsen. {\it Steering Autonomous Driving Agents Through Intersections in Virtual Urban Environments. } International Conference on Modeling, Simulation and Visualization Methods, CSREA Press, 2004
+\bibitem{Willemsen03}
+Peter Willemsen, Joseph K. Kearney, Hongling Wang. {\it Ribbon Networks for Modeling Navigable Paths of Autonomous Agents in Virtual Urban Environments. } In Proceedings of IEEE Virtual Reality 2003, Los Angeles,  2003.
+
+\bibitem{Adzima01}
+Joseph C. Adzima. {\it AI Madness: Using AI to bring Open-City Racing to Life. } Gamasutra.com , 2003.
+
+\url{http://www.gamasutra.com/features/20010124/adzima_01.htm}
+
+\bibitem{Adzima02}
+Joseph C. Adzima. {\it Competitive AI Racing under Open Street Conditions. }
+In AI Game Programming Wisdom, S. 460-471. Delmar Thomson Learning, 2002
+
+
+\bibitem{Monster03}
+Marco Monster. {\it Car Physics for Games. } 2003.
+
+\url{http://home.planet.nl/~monstrous/tutcar.html}
+
+\bibitem{reynolds99}
+Craig W.Reynolds. {\it Steering Behaviours for Autonomous Characters.}
+Sonny Computer Entertainment America, 1999.
+
+\url{http://www.red3d.com/cwr/papers/1999/gdc99steer.pdf}
+
+
+\bibitem{Bobic00}
+Nick Bobic. {\it Advanced Collision Detection Techniques}
+
+Gamasutra.com , 2000.
+
+\url{http://www.gamasutra.com/features/20000330/bobic_01.htm}
+
+\bibitem{Smith99}
+Roger D. Smith. {\it Simulation - The Engine Behind the Virtual World.}
+Volume 1 Simulation 2000 Series, eMAtter 1999.
+
+
+\bibitem{Klein90}
+Bernd Klein. {\it Grundlagen und Anwendungen der Finite-Elemente-Methode.}
+Vieweg, Braunschweig, 1990.
+
+
+\bibitem{Simcity05}
+Ea Games. {\it Sim City 4 - official Rush Hour Website.}
+Ea Games, 2005.
+
+\url{http://www.eagames.com/official/sc4_rushhour/home.jsp}
+
+\bibitem{Chwif00}
+Leonardo Chwif; Marcos Ribeiro Pereia Barretto; Ray J. Paul. {\it On Simulaton Model Complexity.}
+In Proceedings of the 2000 Winter Simulation Conference, S. 449-455, 2000.
+
+\bibitem{Zeigler00}
+Bernard P. Zeigler; Tag Gon Kim; Herbert Praehofer. {\it Theory of Modeling and Simulation}
+Academic Press, 2. Ausgabe, 2000.
+
+\bibitem{Tiller01}
+Michael Tiller.
+{\it Introduction to Physical Modeling with Modelica}
+Springer, 2001.
+
+
+\bibitem{Pidd96}
+M. Pidd. {\it Five Simple Principles of Modeling}
+In Proceedings of the 1996 Winter Simulation Conference, S.721-728, 1996.
+
+\bibitem{Banks99}
+Jerry Banks. {\it Handbook of Simulation : Principles, Methodology, Advances, Applications, and Practice.}
+Wiley-Interscience, 1998.
+
+\bibitem{Whiteford05}
+GBase Internetportal. {\it Interview zum Spiel "`Juiced"' mit Don Whiteford, Direktor bei "`Juice Games"'.}
+2005.
+
+\url{http://www.gbase.ch/global/specials/330.html}
+
+
+\bibitem{Pipenbrinck98}
+Nils Pipenbrinck. {\it Hermite Curve Interpolation.}
+Hamburg, 1998.
+
+\url{http://www.cubic.org/docs/hermite.htm}
+
+\bibitem{Deloura00}
+Mark A. Deloura. {\it Game Programming Gems.}
+Delmar Thomson Learning, Bk\&CD-Rom edition, 2000.
+
+\bibitem{Eberly04}
+David Eberly. {\it Game Physics.}
+Morgan Kaufman, 2004.
+
+\bibitem{Isensee00}
+Pete Isensee. {\it Fast Math using Template Programming.}
+Article in {\it Game Programming Gems}, S. 20-35, Bk\&CD-Rom edition, 2000.
+
+\bibitem{Rabin00}
+Steve Rabin {\it The Magic of Data-Driven Design.}
+Article in {\it Game Programming Gems}, S. 20-35, Bk\&CD-Rom edition, 2000.
+
+\bibitem{DHS04}
+Department of Homeland Security Press Release
+{\it Department of Homeland Security Awards Billions in Grants to State and Local Governments.}
+30. März, 2004.
+
+\url{http://www.dhs.gov/dhspublic/display?content=3416}
+
+\bibitem{Bloomberg00}
+Loren Bloomberg, Jim Dale. {\it A Comparison of the VISSIM and CORSIM Traffic Simulation Models.}
+Institute of Transportation Engineers Annual Meeting, August 2000.
+
+
+\bibitem{Trueblood}
+Michael Trueblood. {\it Should I Use CORSIM or SimTraffic?}
+HDR Engineering, USA.
+
+\url{www.trafficware.com/downloads/crsmvst.pdf}
+
+\bibitem{Kinzel}
+Christopher S. Kinzel, Michael T. Trueblood. {\it The Effects of Operational Parameters in the Simulation of Roundabouts.}
+
+\url{http://www.kutc.ku.edu/pdffiles/roundaboutsim.pdf}
+
+
+\bibitem{Barcelo99}
+
+Jaime Barceló et al. {\it SMARTEST Simulation Report.}
+May 1999.
+
+\url{http://www.its.leeds.ac.uk/projects/smartest/deliv6.PDF}
+
+\bibitem{Kremer95}
+J. Cremer, J. Kearney, Y. Papelis.
+{\it HCSM: A Framework for Behavior and Scenario Control in Virtual Environments.}
+ACM Transactions on Modeling and Computer Simulation 5(3):242-267. July 1995.
+
+\bibitem{Twigg03}
+Christopher Twigg. {\it Catmull-Rom Splines.}
+2003.
+
+\url{http://graphics.cs.cmu.edu/nsp/course/15-462/Fall04/assts/catmullRom.pdf}
+
+\bibitem{Dunlop02}
+Robert Dunlop. {\it Introduction to Catmull-Rom Splines.}
+Microsoft MVP Article. May 2002.
+
+\bibitem{Dunlop202}
+Robert Dunlop. {\it Implementing Steady Motion Control.}
+Microsoft MVP Article. January 2002.
+
+
+\url{http://www.mvps.org/directx/articles/catmull/}
+
+\bibitem{Synchro05}
+
+Trafficware Corporation Synchro 6 Website.
+
+\url{http://www.trafficware.com/synchro.htm}
+
+
+\bibitem{Ageia05}
+
+Ageia PhysX SDK Product Page.
+
+\url{http://www.ageia.com/products/physx.html}
+
+
+\bibitem{Asus05}
+
+Press Release vom 17.05.2005:
+{\it ASUS First AGEIA Board Partner Supporting AGEIA PhysX Processor for Games.}
+
+\url{http://ageia.vnewscenter.com/press.jsp?id=1115657069339}
+
+
+
+
+\bibitem{HavokFX05}
+
+HavocFX Description.
+
+
+\url{http://www.havok.com/content/view/187/77/}
+
+\bibitem{Matrix03}
+
+{\it The Matrix and Quaternion FAQ.} 
+
+Version 1.21 30th November 2003
+
+\url{http://www.j3d.org/matrix_faq/matrfaq_latest.html}
+
+\bibitem{OpenSteer05}
+{\it OpenSteer Project Site.}
+
+{\url http://opensteer.sourceforge.net/}
+
+\bibitem{Siegwart04}
+
+Roland Siegwart, Illah R. Nourbakhsh. {\it Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents).}
+The MIT Press. April, 2004
+
+\bibitem{Bourg01} 
+
+David M. Bourg.
+{\it Physics for Game Developers.}
+O'Reilly Media. November 2001.
+

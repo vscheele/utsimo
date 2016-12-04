@@ -1,0 +1,9 @@
+Möglichkeiten zur Kollsisionserkennung:
+
+1: Definition eines Interessenbereichs
+
+2: Jeder mit jedem
+
+3: Jeder mit UserCar (s)
+
+4: 
